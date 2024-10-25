@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
   <h1>Hola! 👋, soy Mirko</h1>
 </div>
-<h3 align="center">Web Developer</h3>
-<p>Soy Web Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos.</p>
+<h3 align="center">Software Developer</h3>
+<p>Soy Software Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos.</p>
 
 - 🇦🇷 Actualmente resido en Argentina
 
